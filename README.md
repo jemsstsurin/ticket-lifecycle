@@ -34,11 +34,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 As a Help Desk Agent when who you receive a ticket you first observe the properties such as Priority, Department, SLA, and Assign To.
 <br />
 
+![image](https://github.com/user-attachments/assets/1c7103ed-b6c6-42ff-949b-ef2345cb24fa)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If you click Assign To you can assign ticket to individual or team 
 </p>
 <br />
 
