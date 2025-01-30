@@ -27,7 +27,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-![image](https://github.com/user-attachments/assets/16054806-3030-4364-80ad-3d1d228f87a7)
+![image](https://github.com/user-attachments/assets/76f37f26-7967-4aef-960f-d5864edd7940)
+
 
 <p>
 As a Help Desk Agent when who you receive a ticket you first observe the properties such as Priority, Department, SLA, and Assign To.
