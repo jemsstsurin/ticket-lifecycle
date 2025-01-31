@@ -41,10 +41,9 @@ If you click Assign To you can assign ticket to individual or team
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/dbf81558-8f22-4324-8bd3-c507b96cef73)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the ticket is recieve you try to figure the issues and come up with a solution on fixing it.
 </p>
 <br />
