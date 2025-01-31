@@ -44,6 +44,13 @@ If you click Assign To you can assign ticket to individual or team
 ![image](https://github.com/user-attachments/assets/dbf81558-8f22-4324-8bd3-c507b96cef73)
 
 <p>
-After the ticket is recieve you try to figure the issues and come up with a solution on fixing it.
+After the ticket is recieve the individual or team memeber tries to figure the issues and come up with a solution on fixing it.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/acd6c7d7-a5e7-4a8c-a21f-3d83592e0c94)
+
+<p>
+After the issues is revoled you go to Status and click Resolve to close out the ticket.
 </p>
 <br />
